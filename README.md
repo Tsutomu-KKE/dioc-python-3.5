@@ -4,6 +4,7 @@ Python3.5 and scientific packages and dioc(939MB)
 - Japanese font installed. (Use "plt.rcParams['font.family'] = 'IPAexGothic'")
 - Jupyter nbextensions installed. (Edit menu - nbextension config)
 - Dioc(Tool for DigitalOcean) instaled. https://pypi.python.org/pypi/dioc
+- See http://qiita.com/Tsutomu-KKE@github/items/2444668c9dedde0d77ae
 - Installed packages
 
 package|ver
@@ -22,7 +23,6 @@ dask|0.7.5
 datashape|0.5.0
 decorator|4.0.6
 dill|0.2.4
-dioc|0.0.10
 fastcache|1.0.2
 flask|0.10.1
 fontconfig|2.11.1
@@ -33,7 +33,6 @@ heapdict|1.0.0
 ipykernel|4.1.1
 ipython|4.0.1
 ipython-genutils|0.1.0
-ipython_genutils|0.1.0
 ipywidgets|4.1.0
 itsdangerous|0.24
 jinja2|2.8
@@ -42,9 +41,6 @@ jupyter|1.0.0
 jupyter-client|4.1.1
 jupyter-console|4.0.3
 jupyter-core|4.0.6
-jupyter_client|4.1.1
-jupyter_console|4.0.3
-jupyter_core|4.0.6
 libgfortran|1.0
 libpng|1.6.17
 libsodium|1.0.3
@@ -55,6 +51,7 @@ markdown|2.6.5
 markupsafe|0.23
 matplotlib|1.5.0
 mistune|0.7.1
+more-itertools|2.2
 multipledispatch|0.4.8
 nbconvert|4.1.0
 nbformat|4.0.1
